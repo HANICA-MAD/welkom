@@ -1,11 +1,15 @@
 # Welkom!
-Welkom bij de GitHub organization van de minor Mobile Application Development (MAD) van HAN - ICA
+Welkom bij de GitHub organization van de minor Mobile Application Development (MAD) van de Hogeschool Arnhem Nijmegen (HAN) - Informatica en Communicatie Academies (ICA). Mail je GitHub naam naar een docent als je toegang wilt tot de private repositories.
 
 ## Toelichting
-Deze repository bevat geen code, alleen deze instructie.
+Deze repository bevat geen course informatie of code, alleen deze instructie.
 
 ### Hoe krijg ik toegang tot de MAD repo's?
-Alleen HAN studenten die de minor MAD volgen kunnen toegang krijgen tot deze organisatie ('organization'). GitHub heeft geen mogelijkheid om zelf toegang te vragen. Dus een docent nodigt je uit. Maar dit kan alleen op basis van je GitHub account naam. Dus e-mail hem/haar hiervoor je GitHub account naam. NB Je account naam is NIET je e-mail adres, maar de naam - zonder spaties, en ook zonder apestaartjes. Deze zie je, als je rechtsboven op het pijltje uitklapt onder `Signed in as`... (e.g. het pijltje zit naast je foto cq. GitHub avatar plaatje).
+Alleen HAN studenten die de minor MAD volgen kunnen toegang krijgen. E-mail je MAD docent je GitHub account naam. Een GitHub account is gratis aan te maken. 
+
+NB Je account naam is NIET je e-mail adres, maar de naam - zonder spaties, en ook zonder apestaartjes. Je accountnaam zie je, als je rechtsboven op het pijltje uitklapt onder `Signed in as`... (e.g. het pijltje zit naast je foto/avatar.
+
+GitHub heeft geen mogelijkheid om zelf toegang te vragen.
 
 ### Moet ik dus verplicht een GitHub account hebben?
 NB Als je dit leest heb je blijkbaar al een GitHub account aangemaakt :). Dit is nodig, en inderdaad verplicht.
